@@ -1,0 +1,786 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|c:\\users\\saifs\\onedrive\\desktop\\shopverse\\logisticsorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:logisticsorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\logisticsorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:logisticsorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:sellerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\admincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:admincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\admincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:admincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:ord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\salesperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:salesperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\salesperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:salesperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\salesperformance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:salesperformance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\prodcat.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:prodcat.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\adminreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:adminreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\adminreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:adminreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\adminorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:adminorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\adminorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:adminorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\admincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:admincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\admincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:admincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\adminseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:adminseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\adminseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:adminseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:sellerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:sellerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:sellerhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\customernotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:customernotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\customernotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:customernotify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:sellerhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:ord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\review.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:review.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\profileedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:profileedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\profileedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:profileedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\profileedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:profileedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\cartitemclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:cartitemclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3EFB06-43B2-4B80-81F0-5E06E11E5CA0}|ShopVerse.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminCustomer.cs",
+              "RelativeDocumentMoniker": "AdminCustomer.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminCustomer.cs [Design]",
+              "RelativeToolTip": "AdminCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:09:08.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminCustomer.cs",
+              "RelativeDocumentMoniker": "AdminCustomer.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminCustomer.cs",
+              "RelativeToolTip": "AdminCustomer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAKwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:33:19.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:15:37.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sellerHome.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerHome.cs",
+              "RelativeDocumentMoniker": "sellerHome.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerHome.cs",
+              "RelativeToolTip": "sellerHome.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAlwCsBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:50:44.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogisticsOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\LogisticsOrder.cs",
+              "RelativeDocumentMoniker": "LogisticsOrder.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\LogisticsOrder.cs [Design]",
+              "RelativeToolTip": "LogisticsOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:51:23.989Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogisticsOrder.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\LogisticsOrder.cs",
+              "RelativeDocumentMoniker": "LogisticsOrder.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\LogisticsOrder.cs",
+              "RelativeToolTip": "LogisticsOrder.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:51:26.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ord.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Ord.cs",
+              "RelativeDocumentMoniker": "Ord.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Ord.cs",
+              "RelativeToolTip": "Ord.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAYwNMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:59:09.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalesPerformance.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\SalesPerformance.cs",
+              "RelativeDocumentMoniker": "SalesPerformance.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\SalesPerformance.cs",
+              "RelativeToolTip": "SalesPerformance.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:07:34.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesPerformance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\SalesPerformance.Designer.cs",
+              "RelativeDocumentMoniker": "SalesPerformance.Designer.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\SalesPerformance.Designer.cs",
+              "RelativeToolTip": "SalesPerformance.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T06:06:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAswMUBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:16:48.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\UserSession.cs",
+              "RelativeDocumentMoniker": "UserSession.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\UserSession.cs",
+              "RelativeToolTip": "UserSession.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:59:46.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAtwFEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:04:30.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesPerformance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\SalesPerformance.cs",
+              "RelativeDocumentMoniker": "SalesPerformance.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\SalesPerformance.cs [Design]",
+              "RelativeToolTip": "SalesPerformance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:52:23.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Home.Designer.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Home.Designer.cs",
+              "RelativeToolTip": "Home.Designer.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAAAKEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:17:17.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdCat.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ProdCat.rdlc",
+              "RelativeDocumentMoniker": "ProdCat.rdlc",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ProdCat.rdlc [Design]",
+              "RelativeToolTip": "ProdCat.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-08T18:27:49.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T10:04:28.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminReview.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminReview.cs",
+              "RelativeDocumentMoniker": "AdminReview.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminReview.cs",
+              "RelativeToolTip": "AdminReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:31:09.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T03:12:14.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminReview.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminReview.cs",
+              "RelativeDocumentMoniker": "AdminReview.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminReview.cs [Design]",
+              "RelativeToolTip": "AdminReview.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:12:50.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminOrders.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminOrders.cs",
+              "RelativeDocumentMoniker": "AdminOrders.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminOrders.cs",
+              "RelativeToolTip": "AdminOrders.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAlwHsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:55:29.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminOrders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminOrders.cs",
+              "RelativeDocumentMoniker": "AdminOrders.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminOrders.cs [Design]",
+              "RelativeToolTip": "AdminOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:12:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminCategory.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminCategory.cs",
+              "RelativeDocumentMoniker": "AdminCategory.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminCategory.cs",
+              "RelativeToolTip": "AdminCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:45:50.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminCategory.cs",
+              "RelativeDocumentMoniker": "AdminCategory.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminCategory.cs [Design]",
+              "RelativeToolTip": "AdminCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:11:38.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminProduct.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminProduct.cs",
+              "RelativeDocumentMoniker": "AdminProduct.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminProduct.cs",
+              "RelativeToolTip": "AdminProduct.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAlwIQAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:33:50.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminProduct.cs",
+              "RelativeDocumentMoniker": "AdminProduct.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminProduct.cs [Design]",
+              "RelativeToolTip": "AdminProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:11:19.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminSeller.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminSeller.cs",
+              "RelativeDocumentMoniker": "AdminSeller.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminSeller.cs",
+              "RelativeToolTip": "AdminSeller.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAKUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:30:06.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminSeller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminSeller.cs",
+              "RelativeDocumentMoniker": "AdminSeller.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\AdminSeller.cs [Design]",
+              "RelativeToolTip": "AdminSeller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:10:45.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "sellerRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerRegistration.cs",
+              "RelativeDocumentMoniker": "sellerRegistration.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerRegistration.cs",
+              "RelativeToolTip": "sellerRegistration.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAlwCsAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:00:05.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "sellerRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerRegistration.cs",
+              "RelativeDocumentMoniker": "sellerRegistration.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerRegistration.cs [Design]",
+              "RelativeToolTip": "sellerRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:49:07.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\History.cs",
+              "RelativeDocumentMoniker": "History.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\History.cs",
+              "RelativeToolTip": "History.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:56:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerNotify.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\CustomerNotify.cs",
+              "RelativeDocumentMoniker": "CustomerNotify.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\CustomerNotify.cs [Design]",
+              "RelativeToolTip": "CustomerNotify.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:01:19.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "addProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\addProduct.cs",
+              "RelativeDocumentMoniker": "addProduct.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\addProduct.cs [Design]",
+              "RelativeToolTip": "addProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:19:24.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "addProduct.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\addProduct.cs",
+              "RelativeDocumentMoniker": "addProduct.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\addProduct.cs",
+              "RelativeToolTip": "addProduct.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwB8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:50:48.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "sellerHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerHome.cs",
+              "RelativeDocumentMoniker": "sellerHome.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerHome.cs [Design]",
+              "RelativeToolTip": "sellerHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:45:19.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomerNotify.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\CustomerNotify.cs",
+              "RelativeDocumentMoniker": "CustomerNotify.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\CustomerNotify.cs",
+              "RelativeToolTip": "CustomerNotify.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:07:45.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\History.cs",
+              "RelativeDocumentMoniker": "History.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\History.cs [Design]",
+              "RelativeToolTip": "History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:41:03.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "sellerHome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerHome.Designer.cs",
+              "RelativeDocumentMoniker": "sellerHome.Designer.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\sellerHome.Designer.cs",
+              "RelativeToolTip": "sellerHome.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T11:15:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Ord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Ord.cs",
+              "RelativeDocumentMoniker": "Ord.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Ord.cs [Design]",
+              "RelativeToolTip": "Ord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:59:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Notification.cs",
+              "RelativeDocumentMoniker": "Notification.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Notification.cs",
+              "RelativeToolTip": "Notification.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:47:31.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Cartitem.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Cartitem.cs",
+              "RelativeDocumentMoniker": "Cartitem.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Cartitem.cs",
+              "RelativeToolTip": "Cartitem.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:06:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Review.cs",
+              "RelativeDocumentMoniker": "Review.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Review.cs",
+              "RelativeToolTip": "Review.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwJ0AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:17:18.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Review.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Review.Designer.cs",
+              "RelativeDocumentMoniker": "Review.Designer.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Review.Designer.cs",
+              "RelativeToolTip": "Review.Designer.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAAUBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T21:17:26.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProfileEdit.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ProfileEdit.cs",
+              "RelativeDocumentMoniker": "ProfileEdit.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ProfileEdit.cs",
+              "RelativeToolTip": "ProfileEdit.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwG8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:57:24.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProfileEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ProfileEdit.cs",
+              "RelativeDocumentMoniker": "ProfileEdit.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ProfileEdit.cs [Design]",
+              "RelativeToolTip": "ProfileEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:32:23.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProfileEdit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ProfileEdit.Designer.cs",
+              "RelativeDocumentMoniker": "ProfileEdit.Designer.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\ProfileEdit.Designer.cs",
+              "RelativeToolTip": "ProfileEdit.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:03:59.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CartItemClass.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\CartItemClass.cs",
+              "RelativeDocumentMoniker": "CartItemClass.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\CartItemClass.cs",
+              "RelativeToolTip": "CartItemClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:36:35.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Signup.cs",
+              "RelativeDocumentMoniker": "Signup.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Signup.cs",
+              "RelativeToolTip": "Signup.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwFAAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:34:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "OrderDetails.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\OrderDetails.cs [Design]",
+              "RelativeToolTip": "OrderDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:02:58.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Signup.cs",
+              "RelativeDocumentMoniker": "Signup.cs",
+              "ToolTip": "C:\\Users\\saifs\\OneDrive\\Desktop\\ShopVerse\\Signup.cs [Design]",
+              "RelativeToolTip": "Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:33:56.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
